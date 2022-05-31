@@ -28,7 +28,7 @@ it = list.iterator();
 }
  
 public int next() {
-// if we get to the end, start again
+// *** if we get to the end, start again ***
 if (!it.hasNext()) {
 it = list.iterator();
 }
