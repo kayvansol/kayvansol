@@ -5,7 +5,11 @@ import java.util.Iterator;
 import java.util.List;
   
 import junit.framework.TestCase;
-  
+
+/**
+ * This is a utility class for JDBC connection.
+ * @author Kayvan Soleimani
+ */  
 class Robin {
 private int i;
   
