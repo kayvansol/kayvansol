@@ -3,7 +3,7 @@ import java.sql.DriverManager;
  
 /**
  * This is a utility class for JDBC connection.
- * @author w3spoint
+ * @author kayvansol
  */
 public class JDBCUtil {
 	//JDBC and database properties.
