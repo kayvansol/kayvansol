@@ -1,5 +1,5 @@
-<div align="center" style='border-radius: 25px;'>
-  <img src='https://github.com/kayvansol/kayvansol/blob/main/7561b34e3dabe0e723be8c1a536bdccf47e55b64.webp' />
+<div align="center">
+  <img src='https://github.com/kayvansol/kayvansol/blob/main/7561b34e3dabe0e723be8c1a536bdccf47e55b64.webp'  style='border-radius: 25%;' />
 </div>
   
 <!--
