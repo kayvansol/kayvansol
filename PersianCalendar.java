@@ -232,7 +232,9 @@ public class PersianCalendar extends GregorianCalendar {
 	 * @return String Name of the day in week
 	 */
 	public String getPersianWeekDayName() {
+		
 		switch (get(DAY_OF_WEEK)) {
+				
 		case SATURDAY:
 			return PersianCalendarConstants.persianWeekDays[0];
 		case SUNDAY:
@@ -301,6 +303,7 @@ public class PersianCalendar extends GregorianCalendar {
 	 */
 	//
 	public void addPersianDate(int field, int amount) {
+		
 		if (amount == 0) {
 			return; // Do nothing!
 		}
@@ -316,6 +319,7 @@ public class PersianCalendar extends GregorianCalendar {
 			setPersianDate(this.persianYear + ((getPersianMonth() + amount) / 12), (getPersianMonth() + amount) % 12, this.persianDay);
 			return;
 		}
+		
 		add(field, amount);
 		calculatePersianDate();
 	}
