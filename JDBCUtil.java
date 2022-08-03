@@ -12,7 +12,7 @@ public class JDBCUtil {
 		           "oracle.jdbc.driver.OracleDriver";
 	
 	private static final String DB_URL = 
-		        "jdbc:oracle:thin:@localhost:1521:XE";
+		           "jdbc:oracle:thin:@localhost:1521:XE";
 	
 	private static final String DB_USERNAME = "system";
 	private static final String DB_PASSWORD = "oracle";
