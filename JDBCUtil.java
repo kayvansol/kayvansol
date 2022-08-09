@@ -15,7 +15,7 @@ public class JDBCUtil {
 		           "jdbc:oracle:thin:@localhost:1521:XE";
 	
 	private static final String DB_USERNAME = "system";
-	private static final String DB_PASSWORD = "oracle";
+	private static final String DB_PASSWORD = "***";
  
 	public static Connection getConnection(){
 		
