@@ -1,7 +1,10 @@
 <div align="center">
+  <img src='https://github.com/kayvansol/kayvansol/assets/53554624/57fa5a23-8b69-4ad6-9255-b4f9bd2cdcd6'  style='width:70%;border-radius: 25%;' />
+  <br />And<br />
   <img src='https://github.com/kayvansol/kayvansol/blob/main/7561b34e3dabe0e723be8c1a536bdccf47e55b64.webp'  style='border-radius: 25%;' />
 </div>
   
+
 <!--
 **kayvansol/kayvansol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
