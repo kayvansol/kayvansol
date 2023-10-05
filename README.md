@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Keivan
 
 Software engineer with about ten years of experience in coding, testing, improving, and establishing systems. I have contributed to enterprise and large projects using C# .Net and SQL Server and a little Reactjs, Such as ERP applications and official applications. 
-I've been experienced with different tools, and I'm interested in creating scalable architecture for enterprise solutions.
+I've been experienced with different tools, and I'm interested in creating scalable architecture for enterprise solutions like microservices and deploy them on kubernetes cluster.
 
 📫 How to reach me kayvan.sol2@gmail.com
 
