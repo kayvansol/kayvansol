@@ -29,7 +29,7 @@ I've been experienced with different tools, and I'm interested in creating scala
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayvansol&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayvansol&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayvansol&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools:
 <div>
