@@ -66,7 +66,7 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="rabbitmq" alt="rabbitmq" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="azure devops" alt="azure devops" width="40" height="40"/>&nbsp;
-<img src="https://static-00.iconduck.com/assets.00/ceph-icon-512x502-f58s9nfz.png" title="ceph" alt="ceph" width="40" height="40"/>&nbsp;
+<img src="https://ceph.io/assets/bitmaps/Ceph_Logo_Stacked_RGB_120411_fa.png" title="ceph" alt="ceph" width="60" height="80"/>&nbsp;
 
 </div>
 
